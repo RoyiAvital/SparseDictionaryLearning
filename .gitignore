@@ -1,0 +1,45 @@
+# Media Files
+# *.png
+*.jpg
+*.bmp
+*.tif
+*.avi
+*.mp4
+
+# Documnets
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+# *.pdf
+
+# MATLAB Files
+*.asv
+*.m~
+*App/
+
+# Compilation Files:
+*.obj
+*.exp
+*.pdb
+*.ilk
+*.tlog
+*.idb
+*.suo
+*.manifest
+*.iobj
+*.ipdb
+*.log
+*.exe
+*.VC.db
+*.vs*
+
+# Build (CMake /Meson) Folders & Files
+Build/*
+
+# Binary Files
+*.lib
+*.dll
+
